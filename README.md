@@ -7,7 +7,7 @@
 
 > **Transform your job search with AI-powered precision** - Create ATS-beating resumes and tailored cover letters in minutes
 
-![AI Resume Artisan Dashboard](https://via.placeholder.com/1200x600/0ea5e9/ffffff?text=AI+Resume+Artisan+Dashboard+Preview) <!-- Replace with actual screenshot -->
+![AI Resume Artisan Dashboard](https://www.gitbook.com/cdn-cgi/image/dpr=2,width=760,onerror=redirect,format=auto/https%3A%2F%2Ffiles.gitbook.com%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FGUihImAt81eXKAEiQ8Ib%252Fuploads%252Fk7I5AraccmvoKikCuDS6%252Fimage.png%3Falt%3Dmedia%26token%3Dabecb0dd-6e16-4898-94ac-d59605c90b7a) <!-- Replace with actual screenshot -->
 
 **Try it live:** [🚀 Live Demo](https://example.com/live-demo) | **Star us:** [⭐ Give a Star](https://github.com/W3JDev/artisanai-ats-1pager-resume-coverletter-builder)
 
