@@ -177,16 +177,24 @@ pie
 ## 🚧 Roadmap
 ```mermaid
 gantt
-    title Product Roadmap
+    title Product Roadmap (June 2025 Onwards)
     dateFormat  YYYY-MM-DD
-    section Q3 2024
-    Multi-column resumes      :active,  des1, 2024-07-01, 2024-08-15
-    Chrome extension          :         des2, 2024-08-01, 2024-09-30
-    section Q4 2024
-    AI Interview Prep         :         des3, 2024-10-01, 2024-11-30
-    Salary Negotiation Module :         des4, 2024-11-15, 2024-12-31
-```
+    section Now - Aug 2025
+    Beta Testing & Feedback      :active,  phase1, 2025-06-12, 2025-07-15
+    Mobile App Integration       :         phase2, 2025-06-25, 2025-08-10
+    ATS Compatibility Scanner    :         phase3, 2025-07-01, 2025-08-20
+    
+    section Sep - Nov 2025
+    Chrome Extension             :         phase4, 2025-09-01, 2025-10-15
+    AI Interview Coach           :         phase5, 2025-09-15, 2025-11-30
+    Multi-language Support       :         phase6, 2025-10-01, 2025-11-30
+    
+    section Dec 2025 - Feb 2026
+    Salary Negotiation Module    :         phase7, 2025-12-01, 2026-01-31
+    LinkedIn Auto-Apply          :         phase8, 2026-01-15, 2026-02-28
+    Enterprise Dashboard         :         phase9, 2026-02-01, 2026-03-15
 
+```
 ## 📜 License
 Distributed under the MIT License - see [LICENSE](LICENSE) for details.
 
